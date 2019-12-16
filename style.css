@@ -5,6 +5,10 @@ body {
     font-weight: bold;
 }
 
+.main { 
+    text-align: center;
+}
+
 .nav {
     background-color: white;
     color: blue;
